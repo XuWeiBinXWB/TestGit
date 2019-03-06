@@ -5,6 +5,7 @@ public class Apple {
 		System.out.println("right....");
 		System.out.println("left....");
 		System.out.println("test conflict 2");
+		System.out.println("test conflict 1");
 	}
 
 }
